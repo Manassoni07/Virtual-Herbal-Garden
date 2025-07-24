@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Tulsi (Ocimum sanctum)",
+    "image": "/media/tulsi2.jpg",
+    "description": "Ayurveda reveres Tulsi (Holy Basil) as the Queen of Herbs for its immense medicinal and spiritual value. It possesses a pungent and slightly bitter taste (Rasa), with heating potency (Virya) and a pungent post-digestive effect (Vipaka). Its light, dry, and sharp qualities (Gunas) enable it to balance Vata and Kapha doshas, while potentially increasing Pitta. Tulsi is widely used for respiratory ailments, stress reduction, improving immunity and digestion. It is beneficial for a range of conditions, from coughs and colds to skin issues and fever. Its adaptogenic properties help the body manage stress, fostering overall well-being and longevity.",
+    "uses": "Boosts immunity, respiratory health"
+  },
+  {
+    "name": "Neem",
+    "image": "/media/Neem.webp",
+    "description": "Neem (Azadirachta indica), known as Nimba in Ayurveda, is a powerful detoxifying herb renowned for its bitter taste and purifying properties. It balances Pitta and Kapha doshas and is especially effective in cleansing the blood and skin. Neem is widely used to treat skin disorders like acne, eczema, and infections due to its antibacterial, antifungal, and anti-inflammatory actions. It also supports oral health, promotes healthy digestion, and strengthens immunity. Neem is a key herb for promoting overall internal and external purification.",
+    "uses": "Purifies blood, treats skin diseases"
+  },
+  {
+    "name": "Hibiscus",
+    "image": "/media/hibuscus.jpg",
+    "description": "Hibiscus (Hibiscus rosa-sinensis), known as Japa Pushpa in Ayurveda, is a revered herb used for its cooling and rejuvenating properties. It is particularly beneficial for balancing Pitta and Kapha doshas. The vibrant red flowers are used to promote hair growth, improve skin complexion, and support heart health. Hibiscus is also known to aid in managing high blood pressure, menstrual disorders, and digestive issues. Its antioxidant-rich petals help detoxify the body and boost overall vitality.",
+    "uses": "Used in hair oil, tea, and skincare"
+  },
+  {
+    "name": "Ashwagandha",
+    "image": "/media/ashwagandha.webp",
+    "description": "Ashwagandha (Withania somnifera), also known as Indian Ginseng or Winter Cherry, is a powerful adaptogenic herb widely used in Ayurveda to promote strength, stamina, and vitality. It is known to balance Vata and Kapha doshas and helps the body cope with stress by calming the nervous system. Ashwagandha supports cognitive function, improves sleep quality, and enhances muscle strength and energy levels. It also helps boost immunity, regulate blood sugar, and support reproductive health in both men and women.",
+    "uses": "Improves energy, reduces anxiety"
+  },
+  {
+    "name": "Aloe Vera",
+    "image": "/media/aloe vera.webp",
+    "description": "Aloe Vera, or Kumari, holds a significant place in Ayurveda as a rejuvenating herb. It possesses a bitter taste (Rasa), cooling potency (Virya), and pungent post-digestive effect (Vipaka). This tridoshic herb balances Vata, Pitta, and Kapha doshas, with a prominent effect on Pitta due to its cooling nature. Its properties make it effective for skin health, aiding digestion, boosting immunity, and acting as an anti-inflammatory agent. Aloe Vera's versatile nature supports both internal and external application for overall well-being.",
+    "uses": "Used in creams, juices, and burns"
+  },
+  {
+    "name": "Amla",
+    "image": "/media/amla.webp",
+    "description": "Amla (Emblica officinalis), revered as a Rasayana in Ayurveda, is a powerful rejuvenating herb rich in Vitamin C and antioxidants. It balances all three doshas—Vata, Pitta, and Kapha—and promotes longevity and vitality. Amla strengthens the immune system, supports digestion, enhances skin and hair health, and aids in detoxification. It is also beneficial for eye health, liver function, and managing blood sugar levels. Its cooling nature soothes inflammation and promotes overall well-being.",
+    "uses": "Used in chyawanprash and tonics"
+  },
+  {
+    "name": "Lavender",
+    "image": "/media/levender.webp",
+    "description": "Though not native to traditional Ayurvedic texts, lavender (Lavandula angustifolia) is valued in modern Ayurvedic practices for its calming and aromatic qualities. It primarily balances Vata and Pitta doshas by calming the mind, relieving stress, and promoting restful sleep. Lavender oil is used in aromatherapy to ease anxiety, headaches, and emotional imbalances. It also has antiseptic and anti-inflammatory properties, making it useful in skin care. Its soothing nature makes it ideal for mental and emotional harmony.",
+    "uses": "Used in aroma oils and teas"
+  },
+  {
+    "name": "Giloy",
+    "image": "/media/giloy.webp",
+    "description": "Giloy (Tinospora cordifolia), known as Amrita in Ayurveda, meaning (the root of immortality), is a potent immunity booster and detoxifier. It balances Vata and Pitta doshas and is widely used to manage fevers, especially in chronic conditions like dengue and malaria. Giloy purifies the blood, improves digestion, reduces inflammation, and supports liver function. It also enhances cognitive function and helps manage lifestyle disorders like diabetes and stress. Giloy is a cornerstone of Ayurvedic immunity and rejuvenation therapies.",
+    "uses": "Used in Ayurvedic syrups and juices"
+  },
+  {
+    "name": "Arjuna",
+    "image": "/media/Arjuna.png",
+    "description": "Arjuna bark is a revered Ayurvedic herb known for its extensive medicinal properties, particularly for cardiovascular health. It acts as a powerful cardiac tonic, strengthening heart muscles and supporting healthy blood flow. The bark is rich in antioxidants, which combat oxidative stress and protect against heart damage. Arjuna also helps regulate blood pressure, manage cholesterol levels, and may even aid in improving heart failure. Besides its cardiovascular benefits, Arjuna bark also possesses anti-inflammatory, antimicrobial, and blood sugar-balancing properties, contributing to overall health and well-being. Its applications extend to treating various conditions like asthma, bronchitis, diarrhea, and even skin issues like acne and pigmentation.",
+    "uses": "Liver protection,Weight management,Diabetes management,Respiratory support"
+  }
+]
