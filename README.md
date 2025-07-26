@@ -1,4 +1,3 @@
-
 # 🌿 Virtual Herbal Garden 🌿
 
 Welcome to the **Virtual Herbal Garden** — a web-based interactive platform that brings nature's pharmacy right to your screen! This project is a tribute to the timeless healing traditions of Ayurveda and modern herbal wellness.
