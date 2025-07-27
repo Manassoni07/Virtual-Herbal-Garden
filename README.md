@@ -4,7 +4,7 @@ Welcome to the **Virtual Herbal Garden** — a web-based interactive platform th
 
 ---
 
-## 🔮 Overview
+## Overview
 
 This virtual garden showcases a rich variety of **medicinal plants**, complete with their images, descriptions, and Ayurvedic uses. With a clean UI, modal pop-ups, and search functionality, users can easily explore the benefits of plants like **Tulsi, Neem, Ashwagandha, Amla, and many more**.
 
@@ -12,20 +12,26 @@ This virtual garden showcases a rich variety of **medicinal plants**, complete w
 
 ## 💡 Features
 
-- 🌱 Dynamic rendering of plant cards from JSON data  
-- 🔍 Real-time search for filtering herbs by name  
-- 📜 Clickable plant cards open modals with detailed info  
-- 🧘‍♀️ Educational content inspired by AYUSH & Ayurveda  
-- 🎨 Clean, responsive UI using HTML, CSS, and Vanilla JavaScript  
+- ⭐ Dynamic rendering of plant cards from JSON data  
+- ⭐ Real-time search for filtering herbs by name  
+- ⭐ Clickable plant cards open modals with detailed info  
+- ⭐ Educational content inspired by AYUSH & Ayurveda  
+- ⭐ Clean, responsive UI using HTML, CSS, and Vanilla JavaScript  
 
 ---
 ## 📸 Screenshots
 
-### 🏡 Home Page  
+### ⭐ Home Page  
 ![Home Page](/media/ScreenShots/HomePage.png)
 
-### 🌿 Plant Cards Grid  
+### ⭐ Plant Cards Grid  
 ![Plant Grid](/media/ScreenShots/plantgrid.gif)
 
-### 📜 Modal View (Plant Info)  
+### ⭐ Modal View (Plant Info)  
 ![Modal View](/media/ScreenShots/modalView.png)
+
+### ⭐ Login Page
+![Modal View](/media/ScreenShots/loginPage.png)
+
+### ⭐ All Plant Section  
+![Modal View](/media/ScreenShots/Allplants.png)
