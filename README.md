@@ -16,7 +16,7 @@ This virtual garden showcases a rich variety of **medicinal plants**, complete w
 - ⭐ Real-time search for filtering herbs by name  
 - ⭐ Clickable plant cards open modals with detailed info  
 - ⭐ Educational content inspired by AYUSH & Ayurveda  
-- ⭐ Clean, responsive UI using HTML, CSS, and Vanilla JavaScript  
+- ⭐ Clean,attractive UI using HTML, CSS, and Vanilla JavaScript  
 
 ---
 ## 📸 Screenshots
